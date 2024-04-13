@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishi97" alt="rishi97" /></a> </p>
 
-- 🔭 I’m currently working on [Hashicorp Packer](https://github.com/rishi97/packer)
+- 🔭 I’m currently working on [Microservices](https://microservices.io/) & Database As a Service
 
-- 🌱 I’m currently learning **TensorFlow, AIOps**
+- 🌱 I’m currently learning **AI/MLOps**
 
 - 👯 I’m looking to collaborate on **Any DevOps Project**
 
